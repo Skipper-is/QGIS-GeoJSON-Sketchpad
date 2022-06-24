@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/qgis3_geojson_sketch" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
